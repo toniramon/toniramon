@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Toni Ramon
+### Hi there  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="" data-canonical-src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="48" height="48" /> I'm Toni Ramon
 
 <!--
 **toniramon/toniramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
